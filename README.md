@@ -1,6 +1,9 @@
 # Figma Design of Project :
 (https://www.figma.com/file/BQn5iwVUAR3eBEqjsxWpxG/Learn-React-with-10-Projects-(Copy)?type=design&node-id=1%3A2&mode=design&t=zlTsr8GoI1EF6Mcb-1)
 
+# Deployed Link of Vercel :
+https://dainty-florentine-bff7ef.netlify.app/
+
 
 # Getting Started with Create React App
 
