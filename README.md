@@ -1,3 +1,7 @@
+# Figma Design of Project :
+(https://www.figma.com/file/BQn5iwVUAR3eBEqjsxWpxG/Learn-React-with-10-Projects-(Copy)?type=design&node-id=1%3A2&mode=design&t=zlTsr8GoI1EF6Mcb-1)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
